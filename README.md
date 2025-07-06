@@ -44,7 +44,7 @@ It supports multiple countries (US, UK, India, etc.) and retrieves price data us
 
 ```bash
 git clone https://github.com/abhishekkhasre/price_comparision.git
-cd price-comparison-api
+cd pprice_comparision
 pip install -r requirements.txt
 
 
