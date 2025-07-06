@@ -38,3 +38,10 @@ It supports multiple countries (US, UK, India, etc.) and retrieves price data us
 git clone https://github.com/abhishekkhasre/price_comparision.git
 cd price-comparison-api
 pip install -r requirements.txt
+
+
+## 📸 Postman Screenshot:
+
+![Postman Example](https://drive.google.com/uc?id=1YXSmeNZwERmqBq_5Ti_j1UiCg8yw6-Hm)
+
+<sup>🔗 If the image doesn't load, [click here to view it on Google Drive](https://drive.google.com/file/d/1YXSmeNZwERmqBq_5Ti_j1UiCg8yw6-Hm/view?usp=drivesdk)</sup>
